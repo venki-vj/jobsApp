@@ -1,6 +1,6 @@
 
 {
-  "name": "jobs-frontend",
+  "name": "jobs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,7 @@
     "path": "^0.12.7"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node app",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
